@@ -18,10 +18,10 @@ background: linear-gradient(90deg, rgba(27,20,143,1) 0%, rgba(121,9,9,1) 74%, rg
 .light {
   --text-color: black;
   --bg-url:  background: rgb(103,95,247);
-background: linear-gradient(90deg, rgba(103,95,247,1) 0%, rgba(255,85,85,1) 69%, rgba(246,199,137,1) 100%);
-  --stroke-color: rgba(0, 0, 0, 0.5);
+background: linear-gradient(90deg, rgba(103,95,247,1) 0%, rgb(160, 76, 76) 69%, rgba(246,199,137,1) 100%);
+  --stroke-color: rgb(0, 0, 0);
   --surface-color: rgba(0, 0, 0, 0.05);
-  --surface-color-hover: rgba(0, 0, 0, 0.02);
+  --surface-color-hover: rgba(0, 0, 0, 0.173);
   --highlight-color: rgba(0, 0, 0, 0.1);
   --switch-bg-url: url(./assets/sun.svg);
 }
@@ -224,11 +224,3 @@ background: linear-gradient(90deg, rgba(103,95,247,1) 0%, rgba(255,85,85,1) 69%,
   transform: scale(1.1);
 
 }
-
-
-
-/*
-<a href="https://www.youtube.com/@flexk1ng736" target="_blank">
-          <ion-icon name="logo-youtube"></ion-icon>
-        </a>
-*/
