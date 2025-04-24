@@ -2,7 +2,7 @@
 
 <p align="center">
 Programa exclusivo, estudado e aplicado por mim, Guilherme.<br>
-Veja: <a href="https://bit.ly/GuiLinks" target="_blank">Clique aqui</a>
+Veja: <a href="https://bit.ly/GuiLinks" target="_blank">Acesse o site</a>
 </p>
 
 <p align="center">
